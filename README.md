@@ -1,5 +1,5 @@
-# redoxsysbio.github.io
-<img src="rsb3.png" alt="logo" width="200"/>
+
+<img src="rsb3.png" alt="logo" align="right" width="150"/>
 
 Welcome to the Github pages site of the Redox Systems Biology research group of 
 [Johann Rohwer](https://github.com/jmrohwer) and
