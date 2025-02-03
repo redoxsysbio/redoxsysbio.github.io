@@ -1,5 +1,5 @@
 
-<img src="rsb3.png" alt="logo" align="right" width="150"/>
+<img src="rsb3.png" alt="logo" align="right" vertical-align="top" width="150"/>
 
 # [Redox Systems Biology](https://redoxsysbio.github.io)
 
