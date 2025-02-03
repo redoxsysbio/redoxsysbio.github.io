@@ -8,7 +8,7 @@ Welcome to the Github pages site of the Redox Systems Biology research group of
 
 The following pages are available on this site:
 
-- [Signal parameter quantification](https://redoxsysbio.github.io)<br>
+- [Signal parameter quantification](https://redoxsysbio.github.io/signalparameters)<br>
   A [JupyterLite](https://jupyterlite.readthedocs.io/) instance for interactive modelling of signalling 
   parameters as described in the paper
   *"Characterisation of genetically encoded hydrogen peroxide sensor dynamics"* 
